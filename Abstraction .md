@@ -46,7 +46,6 @@ class Circle(Shape):
 
 rec=Rectangle()
 cir=Circle()#object created for the class 'Rectangle'
-#object created for the class 'Circle'
 print("Area of a rectangle:", rec.calculate_area()) 
 print("Area of a circle:", cir.calculate_area()) 
 ```
